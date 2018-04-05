@@ -1,0 +1,153 @@
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\EsquareMasterTemplate.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\EsquareMasterTemplate.pdb
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\Microsoft.CSharp.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\Microsoft.Web.Infrastructure.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\Newtonsoft.Json.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\PresentationFramework.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\SocietyDAL.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\SocietyEntity.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\SocietyWCFService.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\Syncfusion.Compression.Base.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\Syncfusion.Core.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\Syncfusion.GeckoHtmlRenderer.Base.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\Syncfusion.HtmlConverter.Base.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\Syncfusion.Pdf.Base.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\Syncfusion.PdfViewer.Windows.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\System.Net.Http.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\System.Net.Http.Formatting.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\System.Net.Http.WebRequest.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\System.ServiceModel.Web.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\System.Web.Http.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\System.Web.Http.WebHost.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\System.Windows.Forms.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\SocietyDAL.pdb
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\SocietyEntity.pdb
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\SocietyWCFService.pdb
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\Newtonsoft.Json.xml
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\Syncfusion.Compression.Base.xml
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\Syncfusion.GeckoHtmlRenderer.Base.xml
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\Syncfusion.HtmlConverter.Base.xml
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\Syncfusion.Pdf.Base.xml
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\Syncfusion.PdfViewer.Windows.xml
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\System.Net.Http.xml
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\System.Net.Http.Formatting.xml
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\System.Net.Http.WebRequest.xml
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\System.Web.Http.xml
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\System.Web.Http.WebHost.xml
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\obj\Debug\EsquareMasterTemplate.csprojResolveAssemblyReference.cache
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\obj\Debug\EsquareMasterTemplate.csproj.ResolveComReference.cache
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\obj\Debug\RdlCompile.cache
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\obj\Debug\RdlCompile.compiled
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\obj\Debug\EsquareMasterTemplate.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\obj\Debug\EsquareMasterTemplate.pdb
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\EsquareMasterTemplate.dll.config
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\EsquareMasterTemplate.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\EsquareMasterTemplate.pdb
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\Antlr3.Runtime.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\AutoMapper.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\Microsoft.CSharp.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\Microsoft.Web.Infrastructure.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\Newtonsoft.Json.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\PresentationFramework.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\SocietyDAL.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\SocietyEntity.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\SocietyWCFService.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\Syncfusion.Compression.Base.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\Syncfusion.Core.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\Syncfusion.GeckoHtmlRenderer.Base.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\Syncfusion.HtmlConverter.Base.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\Syncfusion.Pdf.Base.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\Syncfusion.PdfViewer.Windows.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\System.IO.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\System.Net.Http.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\System.Net.Http.Formatting.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\System.Net.Http.WebRequest.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\System.Runtime.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\System.ServiceModel.Web.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\System.Threading.Tasks.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\System.Web.Http.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\System.Web.Http.WebHost.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\System.Web.Optimization.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\System.Windows.Forms.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\WebGrease.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\SocietyDAL.pdb
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\SocietyEntity.pdb
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\SocietyWCFService.pdb
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\Antlr3.Runtime.pdb
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\AutoMapper.xml
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\Newtonsoft.Json.xml
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\Syncfusion.Compression.Base.xml
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\Syncfusion.GeckoHtmlRenderer.Base.xml
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\Syncfusion.HtmlConverter.Base.xml
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\Syncfusion.Pdf.Base.xml
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\Syncfusion.PdfViewer.Windows.xml
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\System.IO.xml
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\System.Net.Http.xml
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\System.Net.Http.Formatting.xml
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\System.Net.Http.WebRequest.xml
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\System.Runtime.xml
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\System.Threading.Tasks.xml
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\System.Web.Http.xml
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\System.Web.Http.WebHost.xml
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\System.Web.Optimization.xml
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\obj\Debug\EsquareMasterTemplate.csproj.App.config
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\obj\Debug\EsquareMasterTemplate.csprojResolveAssemblyReference.cache
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\obj\Debug\EsquareMasterTemplate.csproj.ResolveComReference.cache
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\obj\Debug\EsquareMasterTemplate.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\obj\Debug\EsquareMasterTemplate.pdb
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\Microsoft.mshtml.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\EsquareMasterTemplate\bin\Microsoft.SqlServer.Types.dll
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\EsquareMasterTemplate.dll.config
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\EsquareMasterTemplate.dll
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\EsquareMasterTemplate.pdb
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\Antlr3.Runtime.dll
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\AutoMapper.dll
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\Microsoft.CSharp.dll
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\Microsoft.Web.Infrastructure.dll
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\Newtonsoft.Json.dll
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\PresentationFramework.dll
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\SocietyDAL.dll
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\SocietyEntity.dll
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\SocietyWCFService.dll
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\System.IO.dll
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\System.Net.Http.dll
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\System.Net.Http.Formatting.dll
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\System.Net.Http.WebRequest.dll
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\System.Runtime.dll
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\System.ServiceModel.Web.dll
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\System.Threading.Tasks.dll
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\System.Web.Http.dll
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\System.Web.Optimization.dll
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\System.Windows.Forms.dll
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\WebGrease.dll
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\SocietyDAL.pdb
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\SocietyEntity.pdb
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\SocietyWCFService.pdb
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\Antlr3.Runtime.pdb
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\AutoMapper.xml
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\Newtonsoft.Json.xml
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\Syncfusion.Compression.Base.xml
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\Syncfusion.GeckoHtmlRenderer.Base.xml
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\Syncfusion.HtmlConverter.Base.xml
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\Syncfusion.Pdf.Base.xml
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\Syncfusion.PdfViewer.Windows.xml
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\System.IO.xml
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\System.Net.Http.xml
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\System.Net.Http.Formatting.xml
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\System.Net.Http.WebRequest.xml
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\System.Runtime.xml
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\System.Threading.Tasks.xml
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\System.Web.Http.xml
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\System.Web.Http.WebHost.xml
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\System.Web.Optimization.xml
+E:\Work\society Source\society Source\EsquareMasterTemplate\obj\Debug\EsquareMasterTemplate.csproj.App.config
+E:\Work\society Source\society Source\EsquareMasterTemplate\obj\Debug\EsquareMasterTemplate.csprojResolveAssemblyReference.cache
+E:\Work\society Source\society Source\EsquareMasterTemplate\obj\Debug\Interop.AccessibilityCplAdminLib.dll
+E:\Work\society Source\society Source\EsquareMasterTemplate\obj\Debug\EsquareMasterTemplate.csproj.ResolveComReference.cache
+E:\Work\society Source\society Source\EsquareMasterTemplate\obj\Debug\EsquareMasterTemplate.dll
+E:\Work\society Source\society Source\EsquareMasterTemplate\obj\Debug\EsquareMasterTemplate.pdb
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\Microsoft.mshtml.dll
+E:\Work\society Source\society Source\EsquareMasterTemplate\bin\SocietyWCFService.dll.config
+E:\Work\society Source\society Source\EsquareMasterTemplate\obj\Debug\EsquareMasterTemplate.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\society Source\society Source\SocietySquareEntity\bin\Debug\SocietySquareEntity.dll
+C:\Users\user\Desktop\society Source\society Source\SocietySquareEntity\bin\Debug\SocietySquareEntity.pdb
+C:\Users\user\Desktop\society Source\society Source\SocietySquareEntity\obj\Debug\SocietyEntity.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\society Source\society Source\SocietySquareEntity\obj\Debug\SocietyEntity.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\society Source\society Source\SocietySquareEntity\obj\Debug\SocietySquareEntity.dll
+C:\Users\user\Desktop\society Source\society Source\SocietySquareEntity\obj\Debug\SocietySquareEntity.pdb

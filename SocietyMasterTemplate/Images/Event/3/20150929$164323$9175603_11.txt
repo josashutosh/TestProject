@@ -1,0 +1,45 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace assg1
+{
+   public class Sadd
+    {
+       
+       public static int add(int n1,int n2)
+        {
+           int x=n1+n2;
+           return (x);
+        }
+    }
+    class Program
+    {
+       static int num1, num2;
+       
+        static void Main(string[] args)
+        {
+           // int x;
+            Console.WriteLine("enter Two no:");
+            num1=Convert.ToInt32(Console.ReadLine());
+            num2=Convert.ToInt32(Console.ReadLine());
+           Sadd.add(num1,num2);
+           //Console.WriteLine("addition:" + x);
+         Console.ReadKey();  
+        }
+    }
+}
+
+update ownermaster set OwnerName1='Mrs. Sheena Verghese',FlatId=2 where OwnerId=2
+
+update flatmaster set IsRented=,OwnerId=2 where FlatId=2
+
+
+
+ select Bi.BasicinfoID,OM.OwnerId as ID,ISNUll(OM.OwnerName1,'') as Name,ISNUll(OM.ContactNumber,'') as PersonalContact,ISNUll(OM.OfficeContactNo,'') as OfficeContact,ISNUll(Gender,'') as Gender,ISNUll(OM.DOB,Convert(datetime,'1/01/2015',103)) as Birthday,ISNUll(BI.Relationship,'') as Relationship,ISNUll(BI.OtherName,'') as OtherName,ISNUll(BI.Interests,'') as Interests,ISNUll(OM.Occupation,'') as Occupation,ISNUll(BI.Tagline,'') as Tagline,ISNUll(BI.AboutUs,'') as AboutUs,ISNUll(UM.EmailID,'') as Email,ISNUll(BI.WebsiteUrl,'') as WebsiteUrl,ISNUll(BI.Facebook,'') as Facebook,ISNUll(BI.Twitter,'') as Twitter,ISNUll(BI.GooglePlus,'') as GooglePlus,ISNUll(BI.LinkedIn,'') as LinkedIn
+									from [dbo].[OwnerMaster] OM
+										inner join [dbo].[BasicInformation] BI on BI.ID=OM.OwnerId 
+										inner join [dbo].[UserMaster] UM  on OM.OwnerId=UM.ID and UM.Active=1 and UM.LoginId=@LoginId
+										Inner Join dbo.FlatMaster FM on FM.FlatId = @flatId and FM.OwnerId=OM.OwnerId and FM.Active=1
+										where Om.Active=1 and OM.OwnerId =@ID	

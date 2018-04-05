@@ -1,0 +1,57 @@
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\SocietySquareWCFService\bin\SocietySquareWCFService.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\SocietySquareWCFService\bin\SocietySquareWCFService.pdb
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\SocietySquareWCFService\obj\Debug\SocietySquareWCFService.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\SocietySquareWCFService\obj\Debug\SocietySquareWCFService.pdb
+E:\Akshay\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\SocietySquareWCFService\bin\SocietySquareWCFService.dll
+E:\Akshay\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\SocietySquareWCFService\bin\SocietySquareWCFService.pdb
+E:\Akshay\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\SocietySquareWCFService\obj\Debug\SocietySquareWCFService.csprojResolveAssemblyReference.cache
+E:\Akshay\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\SocietySquareWCFService\obj\Debug\SocietySquareWCFService.dll
+E:\Akshay\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\SocietySquareWCFService\obj\Debug\SocietySquareWCFService.pdb
+D:\Student\Pranav\backproject\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\SocietySquareWCFService\bin\SocietySquareWCFService.dll
+D:\Student\Pranav\backproject\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\SocietySquareWCFService\bin\SocietySquareWCFService.pdb
+D:\Student\Pranav\backproject\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\SocietySquareWCFService\obj\Debug\SocietySquareWCFService.dll
+D:\Student\Pranav\backproject\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\SocietySquareWCFService\obj\Debug\SocietySquareWCFService.pdb
+D:\Student\Pranav\backproject\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\SocietySquareWCFService\obj\Debug\SocietySquareWCFService.csprojResolveAssemblyReference.cache
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\SocietySquareWCFService\bin\SocietySquareWCFService.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\SocietySquareWCFService\bin\SocietySquareWCFService.pdb
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\SocietySquareWCFService\obj\Debug\SocietySquareWCFService.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015\SocietySquareWCFService\obj\Debug\SocietySquareWCFService.pdb
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\SocietySquareWCFService\bin\SocietySquareWCFService.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\SocietySquareWCFService\bin\SocietySquareWCFService.pdb
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\SocietySquareWCFService\obj\Debug\SocietySquareWCFService.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\SocietySquareWCFService\obj\Debug\SocietySquareWCFService.pdb
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\SocietySquareWCFService\obj\Debug\SocietySquareWCFService.csprojResolveAssemblyReference.cache
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\SocietySquareWCFService\bin\SocietySquareWCFService.dll.config
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\SocietySquareWCFService\bin\Syncfusion.DocIO.Base.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\SocietySquareWCFService\bin\Syncfusion.Pdf.Base.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\SocietySquareWCFService\bin\Syncfusion.Pdf.Web.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\SocietySquareWCFService\bin\Syncfusion.Pdf.Windows.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\SocietySquareWCFService\bin\Syncfusion.Pdf.WPF.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\SocietySquareWCFService\bin\Syncfusion.PdfViewer.Windows.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\SocietySquareWCFService\bin\Syncfusion.Compression.Base.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\SocietySquareWCFService\bin\Syncfusion.OfficeChart.Base.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\SocietySquareWCFService\bin\Syncfusion.DocIO.Base.xml
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\SocietySquareWCFService\bin\Syncfusion.Pdf.Base.xml
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\SocietySquareWCFService\bin\Syncfusion.Pdf.Web.xml
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\SocietySquareWCFService\bin\Syncfusion.Pdf.Windows.xml
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\SocietySquareWCFService\bin\Syncfusion.Pdf.WPF.xml
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\SocietySquareWCFService\bin\Syncfusion.PdfViewer.Windows.xml
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\SocietySquareWCFService\bin\Syncfusion.Compression.Base.xml
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\SocietySquareWCFService\bin\Syncfusion.OfficeChart.Base.xml
+E:\Work\society Source\society Source\SocietySquareWCFService\bin\SocietySquareWCFService.dll
+E:\Work\society Source\society Source\SocietySquareWCFService\bin\SocietySquareWCFService.pdb
+E:\Work\society Source\society Source\SocietySquareWCFService\bin\Syncfusion.Compression.Base.dll
+E:\Work\society Source\society Source\SocietySquareWCFService\bin\Syncfusion.OfficeChart.Base.dll
+E:\Work\society Source\society Source\SocietySquareWCFService\bin\Syncfusion.DocIO.Base.xml
+E:\Work\society Source\society Source\SocietySquareWCFService\bin\Syncfusion.Pdf.Base.xml
+E:\Work\society Source\society Source\SocietySquareWCFService\bin\Syncfusion.Pdf.Web.xml
+E:\Work\society Source\society Source\SocietySquareWCFService\bin\Syncfusion.Pdf.Windows.xml
+E:\Work\society Source\society Source\SocietySquareWCFService\bin\Syncfusion.Pdf.WPF.xml
+E:\Work\society Source\society Source\SocietySquareWCFService\bin\Syncfusion.PdfViewer.Windows.xml
+E:\Work\society Source\society Source\SocietySquareWCFService\bin\Syncfusion.Compression.Base.xml
+E:\Work\society Source\society Source\SocietySquareWCFService\bin\Syncfusion.OfficeChart.Base.xml
+E:\Work\society Source\society Source\SocietySquareWCFService\obj\Debug\SocietySquareWCFService.csprojResolveAssemblyReference.cache
+E:\Work\society Source\society Source\SocietySquareWCFService\obj\Debug\SocietySquareWCFService.dll
+E:\Work\society Source\society Source\SocietySquareWCFService\obj\Debug\SocietySquareWCFService.pdb
+E:\Work\society Source\society Source\SocietySquareWCFService\bin\SocietySquareWCFService.dll.config
+E:\Work\society Source\society Source\SocietySquareWCFService\obj\Debug\SocietySquareWCFService.csproj.CoreCompileInputs.cache

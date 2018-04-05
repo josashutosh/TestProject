@@ -1,0 +1,394 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="ProfileMaster.master.cs"
+    Inherits="EsquareMasterTemplate.Profile.ProfileMaster"  %>
+
+<%@ Register Src="~/UserControls/Logo.ascx" TagName="Logo" TagPrefix="uc" %>
+<%@ Register Src="~/UserControls/SideVerticalMenu.ascx" TagName="SideVerticalMenu"
+    TagPrefix="uc" %>
+<%@ Register Src="~/UserControls/NavigationTopMenu.ascx" TagName="NavigationTopMenu"
+    TagPrefix="uc" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if IE 8]> <html lang="en" class="ie8 no-js"> <![endif]-->
+<!--[if IE 9]> <html lang="en" class="ie9 no-js"> <![endif]-->
+<!--[if !IE]><!-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!--<![endif]-->
+<!-- BEGIN HEAD -->
+<head runat="server">
+    <meta charset="utf-8">
+    <title>Esquare</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta content="width=device-width, initial-scale=1" name="viewport" />
+    <meta content="" name="description" />
+    <meta content="" name="author" />
+    <!-- BEGIN GLOBAL MANDATORY STYLES -->
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&subset=all"
+        rel="stylesheet" type="text/css" />
+    <link href="../ThemeAssets/global/plugins/font-awesome/css/font-awesome.min.css"
+        rel="stylesheet" type="text/css" />
+    <link href="../ThemeAssets/global/plugins/simple-line-icons/simple-line-icons.min.css"
+        rel="stylesheet" type="text/css" />
+  
+    <!-- END GLOBAL MANDATORY STYLES -->
+    <!-- BEGIN PAGE LEVEL PLUGIN STYLES -->
+
+        
+
+    <!-- BEGIN THEME STYLES -->
+   
+      <link href="../ThemeAssets/content/bootstrapbundle.min.css" rel="stylesheet" />
+    <link href="../ThemeAssets/content/CommonStyle.min.css" rel="stylesheet" />
+    <link href="../ThemeAssets/content/ProfileMaster.min.css" rel="stylesheet" />
+    <link href="../ThemeAssets/content/MasterExtraCss.min.css" rel="stylesheet" />
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+    //<![CDATA[
+        (window.jQuery) || document.write('<script type="text/javascript" src="../ThemeAssets/bundle/jquery.min.js"><\/script>');//]]>
+    </script>
+
+    
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body class="page-header-fixed page-quick-sidebar-over-content page-container-bg-solid">
+  <%--  <body class="page-header-fixed page-quick-sidebar-over-content page-sidebar-closed page-sidebar-closed-hide-logo page-container-bg-solid">--%>
+    <form id="form1" runat="server">
+    <div class="page-header navbar navbar-fixed-top">
+        <!--------------------------------------------------------- BEGIN HEADER INNER------------------------------------------------>
+        <div class="page-header-inner">
+            <uc:Logo ID="Logo1" runat="server" />
+            <!-- END LOGO -->
+            <!-- BEGIN HORIZANTAL MENU -->
+           
+            <!-- END HORIZANTAL MENU -->
+            <!-- BEGIN HEADER SEARCH BOX -->
+            <!-- DOC: Apply "search-form-expanded" right after the "search-form" class to have half expanded search box -->
+            <div class="search-form">
+                <div class="input-group">
+                    
+                </div>
+            </div>
+            <!-- END HEADER SEARCH BOX -->
+            <!-- BEGIN RESPONSIVE MENU TOGGLER -->
+            <a href="javascript:;" class="menu-toggler responsive-toggler" data-toggle="collapse"
+                data-target=".navbar-collapse"></a>
+            <!-- END RESPONSIVE MENU TOGGLER -->
+            <!-- BEGIN TOP NAVIGATION MENU -->
+            <uc:NavigationTopMenu ID="NavigationTopMenu1" runat="server" />
+            <!-- END TOP NAVIGATION MENU -->
+        </div>
+    </div>
+    <!--------------------------------------------------- END HEADER ---------------------------------------------------------------->
+    <!-- END HEADER -->
+    <div class="clearfix">
+    </div>
+    <!-- BEGIN CONTAINER -->
+    <div class="page-container">
+        <!-- BEGIN SIDEBAR -->
+        <uc:SideVerticalMenu ID="SideVerticalMenu1" runat="server" />
+        <!-- END SIDEBAR -->
+        <div class="page-content-wrapper">
+            <div class="page-content">
+                <!-- BEGIN SAMPLE PORTLET CONFIGURATION MODAL FORM-->
+                <div class="modal fade" id="portlet-config" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+                    aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+                                </button>
+                                <h4 class="modal-title">
+                                    Modal title</h4>
+                            </div>
+                            <div class="modal-body">
+                                Widget settings form goes here
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn blue">
+                                    Save changes</button>
+                                <button type="button" class="btn default" data-dismiss="modal">
+                                    Close</button>
+                            </div>
+                        </div>
+                        <!-- /.modal-content -->
+                    </div>
+                    <!-- /.modal-dialog -->
+                </div>
+                <!-- /.modal -->
+                <!-- BEGIN PAGE HEADER-->
+                <div class="page-bar">
+                    <ul class="page-breadcrumb">
+                        <li><i class="fa fa-home"></i><a href="index.html">Home</a> <i class="fa fa-angle-right">
+                        </i></li>
+                        <li><a href="#">Pages</a> <i class="fa fa-angle-right"></i></li>
+                        <li><a href="#">Profile</a> </li>
+                    </ul>
+                    <div class="page-toolbar">
+                        <div class="btn-group">
+                            
+                           
+                        </div>
+                        <asp:ContentPlaceHolder ID="PageheadeRight" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </div>
+                </div>
+                <!-- End PAGE HEADER-->
+                <!-- BEGIN Profile PAGE CONTENT-->
+                <!-- End PAGE CONTENT-->
+                <div class="row margin-top-20">
+                    <div class="col-md-12">
+                        <!-- END BEGIN PROFILE SIDEBAR -->
+                        <div class="profile-sidebar">
+                            <!-- PORTLET MAIN -->
+                            <div class="portlet light profile-sidebar-portlet">
+                                <!-- SIDEBAR USERPIC -->
+                                <div class="profile-userpic">
+                                     <asp:Image ID="imgProfile" class="profile-image img-responsive" runat="server" />
+                                </div>
+                                <!-- END SIDEBAR USERPIC -->
+                                <!-- SIDEBAR USER TITLE -->
+                                <div class="profile-usertitle">
+                                    <div id="profileusertitlename" runat="server" class="profile-usertitle-name">
+                                      
+                                    </div>
+                                    <div id="profileusertitlejob" runat="server" class="profile-usertitle-job">
+                                      
+                                    </div>           
+                                  
+                                       <div id="pLoginType" runat="server"> </div>
+                                        <div id="FlatInfo"  runat="server" > </div>
+                                     <div id="Buildingname"  runat="server" > </div>
+                                   
+                                </div>
+                                <!-- END SIDEBAR USER TITLE -->
+                                <!-- SIDEBAR BUTTONS -->
+                              <%--  <div class="profile-userbuttons">
+                                    <button type="button" class="btn btn-circle green-haze btn-sm">
+                                        Follow</button>
+                                    <button type="button" class="btn btn-circle btn-danger btn-sm">
+                                        Message</button>
+                                </div>--%>
+                                <!-- END SIDEBAR BUTTONS -->
+                                <!-- SIDEBAR MENU -->
+                              <%--  <div class="profile-usermenu">
+                                    <ul class="nav">
+                                        <li class="active"><a href="extra_profile.html"><i class="icon-home"></i>Overview </a>
+                                        </li>
+                                        <li><a href="extra_profile_account.html"><i class="icon-settings"></i>Account Settings
+                                        </a></li>
+                                        <li><a href="page_todo.html" target="_blank"><i class="icon-check"></i>Tasks </a>
+                                        </li>
+                                        <li><a href="extra_profile_help.html"><i class="icon-info"></i>Help </a></li>
+                                    </ul>
+                                </div>--%>
+                                <!-- END MENU -->
+                            </div>
+                            <!-- END PORTLET MAIN -->
+                            <!--Custom profile Sidebar-->
+                            <asp:ContentPlaceHolder ID="ProfileSidebarcustom" runat="server">
+                            </asp:ContentPlaceHolder>
+                            <!-- custom sidebar-->
+                            <!-- PORTLET MAIN -->
+                            <div class="portlet light">
+                                <!-- STAT -->
+                               <%-- <div class="row list-separated profile-stat">
+                                    <div class="col-md-4 col-sm-4 col-xs-6">
+                                        <div class="uppercase profile-stat-title">
+                                            37
+                                        </div>
+                                        <div class="uppercase profile-stat-text">
+                                            Projects
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4 col-sm-4 col-xs-6">
+                                        <div class="uppercase profile-stat-title">
+                                            51
+                                        </div>
+                                        <div class="uppercase profile-stat-text">
+                                            Tasks
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4 col-sm-4 col-xs-6">
+                                        <div class="uppercase profile-stat-title">
+                                            61
+                                        </div>
+                                        <div class="uppercase profile-stat-text">
+                                            Uploads
+                                        </div>
+                                    </div>
+                                </div>--%>
+                                <!-- END STAT -->
+                                <div>
+                                    <h4 class="profile-desc-title">
+                                        About Us</h4>
+                                    <span id="AboutUs" runat="server" class="profile-desc-text">
+                                    </span>
+                                   
+                                    <div class="margin-top-20 profile-desc-link">
+                                        <i class="fa fa-globe"></i><a runat="server" id="Weburl_social"  href=""></a>
+                                    </div>
+                                    <div class="margin-top-20 profile-desc-link">
+                                        <i class="fa fa-twitter"></i><a runat="server" id="twitter_social" href=""></a>
+                                    </div>
+                                    <div class="margin-top-20 profile-desc-link">
+                                        <i class="fa fa-facebook"></i><a runat="server" id="Facebook_social" href=""></a>
+                                    </div>
+
+                                    <div class="margin-top-20 profile-desc-link">
+                                        <i class="fa fa-google-plus"></i><a runat="server" id="Google_social" href=""></a>
+                                    </div>
+
+                                    <div class="margin-top-20 profile-desc-link">
+                                        <i class="fa fa-linkedin"></i><a runat="server"  id="linkedin_social" href=""></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- END PORTLET MAIN -->
+                        </div>
+                        <!-- END BEGIN PROFILE SIDEBAR -->
+                        <!-- BEGIN MAIN PROFILE CONTENT -->
+                        <div class="profile-content">
+                            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                            </asp:ContentPlaceHolder>
+                        </div>
+                    </div>
+                </div>
+                <!-- END MAIN PROFILE CONTENT -->
+            </div>
+        </div>
+        <!-- BEGIN QUICK SIDEBAR -->
+        
+        <!-- END QUICK SIDEBAR -->
+    </div>
+    <!-- END CONTENT -->
+    <!-- END CONTAINER -->
+    <!-- BEGIN FOOTER -->
+            <div class="page-footer">
+        <div class="page-footer-inner">
+            2014 &copy; Society Square by e-square Infotech</div>
+        <div class="scroll-to-top">
+            <i class="icon-arrow-up"></i>
+        </div>
+        </div>  
+    <!-- END FOOTER -->
+    <!-- BEGIN JAVASCRIPTS(Load javascripts at bottom, this will reduce page load time) -->
+    <!-- BEGIN CORE PLUGINS -->
+    <!--[if lt IE 9]>
+<script type="text/javascript" src="../ThemeAssets/global/plugins/respond.min.js"></script>
+<script type="text/javascript" src="../ThemeAssets/global/plugins/excanvas.min.js"></script>
+<![endif]-->
+
+
+           <script src="http://code.jquery.com/ui/1.11.3/jquery-ui.min.js" type="text/javascript"></script>
+        <script type="text/javascript">
+            //<![CDATA[
+            (window.jQuery) || document.write('<script type="text/javascript" src="../ThemeAssets/bundle/jquery-ui-1.10.3.custom.min.js"><\/script>');//]]>
+        </script>
+
+        <script type="text/javascript" src="../ThemeAssets/bundle/CommonJs.min.js"></script>
+        <script type="text/javascript" src="../ThemeAssets/bundle/Datepicker.min.js"></script>
+        <script type="text/javascript" src="../ThemeAssets/bundle/MasterExtra.min.js"></script>
+        <script type="text/javascript" src="../ThemeAssets/bundle/ProfielExtra.min.js"></script>
+        <script type="text/javascript" src="../ThemeAssets/bundle/CommonJsSetting.min.js"></script>
+
+   
+    <!-- END PAGE LEVEL SCRIPTS -->
+    <script type="text/javascript">
+
+        function toaster()
+         {
+            // Display a info toast, with no title
+            toastr.info('Are you the six fingered man?');
+
+            // Display a warning toast, with no title
+            toastr.warning('My name is Inigo Montoya. You Killed my father, prepare to die!');
+
+            // Display a success toast, with a title
+            toastr.success('Have fun storming the castle!', 'Miracle Max Says');
+
+            // Display an error toast, with a title
+            toastr.error('I do not think that word means what you think it means.', 'Inconceivable!');
+        }
+
+        function showdiv() {
+            Society.blockUI({
+                centerX: false,
+                centerY: false, 
+                target: '.Profile_Info',
+                boxed: true,
+                message: 'Processing...'
+            });
+
+        }
+
+        function HideDiv() {
+            window.setTimeout(function () {
+                Society.unblockUI('.Profile_Info');
+            }, 1000);
+
+        }
+       
+        jQuery(document).ready(function () {
+            // initiate layout and plugins
+            Society.init(); // init metronic core components
+            Layout.init(); //
+         
+            Profile.init(); // init profile page demo
+       
+            //$(".tags").val();
+            $('.tags').tagsInput({
+                'width':'100%',
+                'minChars' : 5
+            });
+            $('.testicheck,.radio-list,.form-group,table,table tr td').find('input[name="job"],.icheck,input[type=radio],input[type=checkbox],input[name="languages[]"]').iCheck({
+                checkboxClass: 'icheckbox_flat-green',
+                radioClass: 'iradio_flat-green'
+            });
+            $(".select2").select2({ maximumSelectionSize: 3 });
+   
+       
+            $('.date').datepicker({
+                format: 'dd/mm/yyyy',
+                autoclose: true,
+                //keyboardNavigation:true,
+                todayBtn: true,
+                todayHighlight: true,
+                clearBtn: true
+                //startDate: '-3d'
+            });
+
+         
+            $('.time').timepicker({
+                // template: 'modal',
+                //showMeridian:fase,//24hour format
+                showMeridian: true
+            });
+
+     
+
+        });
+        /****************************Bottstap Editor**************************************************************/
+        //http: //hackerwins.github.io/summernote/features.html#i18n
+
+        $('.html-editor').summernote({
+            height: 300,                 // set editor height
+            minHeight: null,             // set minimum height of editor
+            maxHeight: null,
+            focus: true,                // set focus to editable area after initializing summernote
+            airPopover: [
+    ['color', ['color']],
+    ['font', ['bold', 'underline', 'clear']],
+    ['para', ['ul', 'paragraph']],
+    ['table', ['table']],
+    ['insert', ['link', 'picture']]
+  ]
+        });
+
+        /************************End Editor*****************************************/
+        //$('.Password').slimScroll({
+        //    height: '200px'
+        //});
+    </script>
+    </form>
+</body>
+</html>

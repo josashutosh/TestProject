@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8AED08B6-5C2F-435E-BDAB-8B8A7C6ED775}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SocietySquareDAL</RootNamespace>
+    <AssemblyName>SocietySquareDAL</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="clRechargeWalletDAL.cs" />
+    <Compile Include="clsAlert.cs" />
+    <Compile Include="clsAmenityDal.cs" />
+    <Compile Include="clsBuildingMasterDal.cs" />
+    <Compile Include="clsBulkUploadDal.cs" />
+    <Compile Include="clsChartDal.cs" />
+    <Compile Include="clsCommitteeMemberDal.cs" />
+    <Compile Include="clsCommonDAL.cs" />
+    <Compile Include="clsDelete.cs" />
+    <Compile Include="clsEvent.cs" />
+    <Compile Include="clsFlatMasterDal.cs" />
+    <Compile Include="clsMaintainanceMasterDal.cs" />
+    <Compile Include="clsMaintenanceCalculationDal.cs" />
+    <Compile Include="clsMaintenanceCollectionDal.cs" />
+    <Compile Include="clsMemberMasterDal.cs" />
+    <Compile Include="clsOwnerMasterDal.cs" />
+    <Compile Include="clsParkingMasterDal.cs" />
+    <Compile Include="clsPaymentDAL.cs" />
+    <Compile Include="clsPettyCashDal.cs" />
+    <Compile Include="clsProfileBasicInfoDal.cs" />
+    <Compile Include="clsReportDal.cs" />
+    <Compile Include="clsSocietyinfoDal.cs" />
+    <Compile Include="clsSocietyMemberDashboardDal.cs" />
+    <Compile Include="clsUserDAL.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="clsUserRegistrationDAL.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="clsCommonDeleteDal.cs" />
+    <Compile Include="clsVehicleMasterDal.cs" />
+    <Compile Include="DBHelper.cs" />
+    <Compile Include="clsEmployeeMasterDal.cs" />
+    <Compile Include="Mail.cs" />
+    <Compile Include="MonthlyExpensesDAL.cs" />
+    <Compile Include="MonthlyMaintenanceMasterDAL.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SaltEncryption.cs" />
+    <Compile Include="SecuritySalaryDAL.cs" />
+    <Compile Include="SqlHelper.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SocietySquareEntity\SocietyEntity.csproj">
+      <Project>{9F9309CA-F358-4489-90BF-592466B9C402}</Project>
+      <Name>SocietyEntity</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

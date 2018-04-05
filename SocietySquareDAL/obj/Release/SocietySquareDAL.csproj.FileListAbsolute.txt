@@ -1,0 +1,14 @@
+D:\Pramod\SocietyMgmt\EsquareMasterTemplate\SocietySquareDAL\bin\Release\SocietySquareDAL.dll
+D:\Pramod\SocietyMgmt\EsquareMasterTemplate\SocietySquareDAL\bin\Release\SocietySquareDAL.pdb
+D:\Pramod\SocietyMgmt\EsquareMasterTemplate\SocietySquareDAL\bin\Release\SocietySquareEntity.dll
+D:\Pramod\SocietyMgmt\EsquareMasterTemplate\SocietySquareDAL\bin\Release\SocietySquareEntity.pdb
+D:\Pramod\SocietyMgmt\EsquareMasterTemplate\SocietySquareDAL\obj\Release\SocietySquareDAL.csprojResolveAssemblyReference.cache
+D:\Pramod\SocietyMgmt\EsquareMasterTemplate\SocietySquareDAL\obj\Release\SocietySquareDAL.dll
+D:\Pramod\SocietyMgmt\EsquareMasterTemplate\SocietySquareDAL\obj\Release\SocietySquareDAL.pdb
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\SocietySquareDAL\bin\Release\SocietySquareDAL.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\SocietySquareDAL\bin\Release\SocietySquareDAL.pdb
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\SocietySquareDAL\bin\Release\SocietySquareEntity.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\SocietySquareDAL\bin\Release\SocietySquareEntity.pdb
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\SocietySquareDAL\obj\Release\SocietySquareDAL.csprojResolveAssemblyReference.cache
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\SocietySquareDAL\obj\Release\SocietySquareDAL.dll
+D:\Student\Pranav\EsquareMasterTemplateAkshayLatest\EsquareMasterTemplate29.4.2015new\EsquareMasterTemplate29.4.2015\SocietySquareDAL\obj\Release\SocietySquareDAL.pdb

@@ -1,0 +1,134 @@
+[
+  {
+    "outputFileName": "ThemeAssets/bundle/jquery.js",
+    "inputFiles": [
+      "ThemeAssets/global/plugins/jquery.js"
+    ]
+  },
+  {
+    "outputFileName": "ThemeAssets/bundle/jquery-ui-1.10.3.custom.js",
+    "inputFiles": [
+      "ThemeAssets/global/plugins/jquery-ui/jquery-ui-1.10.3.custom.js"
+    ]
+  },
+  {
+    "outputFileName": "ThemeAssets/bundle/CommonJs.js",
+    "inputFiles": [
+      "ThemeAssets/global/plugins/jquery-migrate.js",
+      "ThemeAssets/global/plugins/bootstrap/js/bootstrap.js",
+      "ThemeAssets/global/plugins/jquery.blockui.js",
+      "ThemeAssets/global/plugins/bootbox/bootbox.js",
+      "ThemeAssets/global/plugins/bootstrap-toastr/toastr.js"
+    ]
+  },
+  {
+    "outputFileName": "ThemeAssets/bundle/MasterExtra.js",
+    "inputFiles": [
+      "ThemeAssets/global/plugins/icheck/icheck.js",
+      "ThemeAssets/global/plugins/bootstrap-hover-dropdown/bootstrap-hover-dropdown.js",
+      "ThemeAssets/global/plugins/Multiselect/bootstrap-multiselect.js",
+      "ThemeAssets/global/plugins/select2/select2.js",
+      "ThemeAssets/global/plugins/jquery-slimscroll/jquery.slimscroll.js",
+      "ThemeAssets/global/plugins/bootstrap-modal/js/bootstrap-modal.js",
+      "ThemeAssets/global/plugins/bootstrap-modal/js/bootstrap-modalmanager.js"
+    ]
+  },
+  {
+    "outputFileName": "ThemeAssets/bundle/Datepicker.js",
+    "inputFiles": [
+      "ThemeAssets/global/plugins/bootstrap-datepicker/js/bootstrap-datepicker.js",
+      "ThemeAssets/global/plugins/bootstrap-timepicker/js/bootstrap-timepicker.js"
+    ]
+  },
+  {
+    "outputFileName": "ThemeAssets/bundle/LoginJs.js",
+    "inputFiles": [
+      "ThemeAssets/global/plugins/bootstrap-pwstrength/pwstrength-bootstrap.js",
+      "ThemeAssets/admin/pages/scripts/login.js",
+      "ThemeAssets/global/plugins/select2/select2.js"
+    ]
+  },
+  {
+    "outputFileName": "ThemeAssets/bundle/CommonJsSetting.js",
+    "inputFiles": [
+      "ThemeAssets/global/scripts/metronic.js",
+      "ThemeAssets/admin/layout/scripts/layout.js",
+      "Scripts/Custom.js"
+    ]
+  },
+  {
+    "outputFileName": "ThemeAssets/bundle/MasterView.js",
+    "inputFiles": [
+      "ThemeAssets/global/plugins/jquery-slimscroll/jquery.slimscroll.js",
+      "ThemeAssets/global/plugins/bootstrap-modal/js/bootstrap-modal.js",
+      "ThemeAssets/global/plugins/bootstrap-modal/js/bootstrap-modalmanager.js",
+      "ThemeAssets/global/plugins/bootstrap-hover-dropdown/bootstrap-hover-dropdown.js",
+      "ThemeAssets/global/plugins/select2/select2.js",
+      "Scripts/Custom.js"
+    ]
+  },
+  {
+    "outputFileName": "ThemeAssets/bundle/tagsinput.js",
+    "inputFiles": [
+      "ThemeAssets/global/plugins/jquery-tags-input/jquery.tagsinput.js"
+    ]
+  },
+      {
+    "outputFileName": "ThemeAssets/bundle/ProfielExtra.js",
+    "inputFiles": [
+      "ThemeAssets/global/plugins/jquery-tags-input/jquery.tagsinput.js",
+      "ThemeAssets/admin/pages/scripts/profile.js"
+    ]
+  },
+     {
+    "outputFileName": "ThemeAssets/bundle/profile.js",
+    "inputFiles": [
+      "ThemeAssets/admin/pages/scripts/profile.js"
+    ]
+  }, 
+  {
+    "outputFileName": "ThemeAssets/content/LogindefaltTheme.css",
+    "inputFiles": [
+      "ThemeAssets/admin/pages/css/login.css",
+      "ThemeAssets/admin/layout/css/themes/default.css"
+    ]
+  },
+  {
+    "outputFileName": "ThemeAssets/content/ProfileMaster.css",
+    "inputFiles": [
+      "ThemeAssets/admin/pages/css/profile.css",
+      "ThemeAssets/admin/pages/css/tasks.css",
+      "ThemeAssets/global/plugins/jquery-tags-input/jquery.tagsinput.css"
+    ]
+  },
+  {
+    "outputFileName": "ThemeAssets/content/MasterExtraCss.css",
+    "inputFiles": [
+      "ThemeAssets/admin/layout/css/themes/darkblue.css",
+      "ThemeAssets/global/plugins/icheck/skins/square/green.css",
+      "ThemeAssets/global/plugins/bootstrap-summernote/summernote.css",
+      "ThemeAssets/global/plugins/Multiselect/bootstrap-multiselect.css",
+      "ThemeAssets/global/plugins/select2/select2.css",
+      "ThemeAssets/global/plugins/bootstrap-datepicker/css/datepicker3.css"
+    ]
+  },
+    {
+    "outputFileName": "ThemeAssets/content/CommonStyle.css",
+    "inputFiles": [
+  "ThemeAssets/global/css/components.css",
+  "ThemeAssets/global/plugins/bootstrap-toastr/toastr.css",
+  "ThemeAssets/global/css/plugins.css",
+  "ThemeAssets/global/plugins/bootstrap-modal/css/bootstrap-modal-bs3patch.css",
+  "ThemeAssets/global/plugins/bootstrap-modal/css/bootstrap-modal.css",
+  "ThemeAssets/admin/layout/css/layout.css",
+  "ThemeAssets/admin/layout/css/custom.css"
+    ]
+  },
+    {
+    "outputFileName": "ThemeAssets/content/bootstrapbundle.css",
+    "inputFiles": [
+      "ThemeAssets/global/plugins/bootstrap/css/bootstrap.css"
+    ]
+  }
+
+]

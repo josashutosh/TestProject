@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\society Source\society Source\SocietySquareWCFService\bin\SocietySquareWCFService.dll.config
+C:\Users\user\Desktop\society Source\society Source\SocietySquareWCFService\bin\SocietySquareWCFService.dll
+C:\Users\user\Desktop\society Source\society Source\SocietySquareWCFService\bin\SocietySquareWCFService.pdb
+C:\Users\user\Desktop\society Source\society Source\SocietySquareWCFService\bin\Syncfusion.Compression.Base.dll
+C:\Users\user\Desktop\society Source\society Source\SocietySquareWCFService\bin\Syncfusion.OfficeChart.Base.dll
+C:\Users\user\Desktop\society Source\society Source\SocietySquareWCFService\bin\Syncfusion.DocIO.Base.xml
+C:\Users\user\Desktop\society Source\society Source\SocietySquareWCFService\bin\Syncfusion.Pdf.Base.xml
+C:\Users\user\Desktop\society Source\society Source\SocietySquareWCFService\bin\Syncfusion.Pdf.Web.xml
+C:\Users\user\Desktop\society Source\society Source\SocietySquareWCFService\bin\Syncfusion.Pdf.Windows.xml
+C:\Users\user\Desktop\society Source\society Source\SocietySquareWCFService\bin\Syncfusion.Pdf.WPF.xml
+C:\Users\user\Desktop\society Source\society Source\SocietySquareWCFService\bin\Syncfusion.PdfViewer.Windows.xml
+C:\Users\user\Desktop\society Source\society Source\SocietySquareWCFService\bin\Syncfusion.Compression.Base.xml
+C:\Users\user\Desktop\society Source\society Source\SocietySquareWCFService\bin\Syncfusion.OfficeChart.Base.xml
+C:\Users\user\Desktop\society Source\society Source\SocietySquareWCFService\obj\Debug\SocietyWCFService.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\society Source\society Source\SocietySquareWCFService\obj\Debug\SocietyWCFService.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\society Source\society Source\SocietySquareWCFService\obj\Debug\SocietySquareWCFService.dll
+C:\Users\user\Desktop\society Source\society Source\SocietySquareWCFService\obj\Debug\SocietySquareWCFService.pdb

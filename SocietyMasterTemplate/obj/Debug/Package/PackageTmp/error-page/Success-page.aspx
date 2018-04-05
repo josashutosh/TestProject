@@ -1,0 +1,75 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Success-page.aspx.cs" Inherits="EsquareMasterTemplate.error_page.Success_page" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+     <title> </title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta content="" name="description" />
+    <meta content="" name="author" />
+    <!-- BEGIN GLOBAL MANDATORY STYLES -->
+   <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&subset=all" rel="stylesheet" type="text/css"/>
+    <link href="../ThemeAssets/global/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet"
+        type="text/css" />
+    <link href="../ThemeAssets/global/plugins/simple-line-icons/simple-line-icons.min.css"
+        rel="stylesheet" type="text/css" />
+    <link href="../ThemeAssets/global/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet"
+        type="text/css" />
+    <link href="../ThemeAssets/global/plugins/uniform/css/uniform.default.min.css" rel="stylesheet"
+        type="text/css" />
+
+<!-- END GLOBAL MANDATORY STYLES -->
+<!-- BEGIN PAGE LEVEL STYLES -->
+ 
+    <link href="../ThemeAssets/admin/pages/css/error.css" rel="stylesheet" type="text/css" />
+<!-- END PAGE LEVEL SCRIPTS -->
+<!-- BEGIN THEME STYLES -->
+   
+    <link href="../ThemeAssets/global/css/components.css" rel="stylesheet" type="text/css" />
+     <link href="../ThemeAssets/global/css/plugins.css" rel="stylesheet" type="text/css" />
+     <link href="../ThemeAssets/admin/layout/css/layout.css" rel="stylesheet" type="text/css" />
+   
+    <link href="../ThemeAssets/admin/layout/css/themes/default.css" rel="stylesheet" id="style_color" type="text/css" />
+     <link href="../ThemeAssets/admin/layout/css/custom.css" rel="stylesheet" type="text/css" />
+     <link href="../ThemeAssets/global/plugins/bootstrap-toastr/toastr.min.css" rel="stylesheet"
+        type="text/css" />
+ 
+
+        <!-- IMPORTANT! Load jquery-ui-1.10.3.custom.min.js before bootstrap.min.js to fix bootstrap tooltip conflict with jquery ui tooltip -->
+        
+<!-- END THEME STYLES -->
+<link rel="shortcut icon" href="favicon.ico"/>
+ <script src="../ThemeAssets/global/plugins/jquery.min.js" type="text/javascript"></script>
+</head>
+<body class="page-500-full-page">
+    <form id="form" runat="server">
+
+<div class="row">
+	<div class="col-md-12 page-500">
+		<div class=" number">
+			Oops..
+		</div>
+		<div class=" details">
+			<h3>Oops! Something went wrong.</h3>
+			<p>
+				 You dont have enough permission!<br/>
+				Please come back in a while.<br/><br/>
+			</p>
+		</div>
+	</div>
+</div>
+        <!-- BEGIN CORE PLUGINS -->
+        <!--[if lt IE 9]>
+<script type="text/javascript" src="../ThemeAssets/global/plugins/respond.min.js"></script>
+<script type="text/javascript" src="../ThemeAssets/global/plugins/excanvas.min.js"></script>
+
+<![endif]-->
+     <script src="../ThemeAssets/global/plugins/jquery.min.js" type="text/javascript"></script>
+     <script src="../ThemeAssets/global/plugins/bootstrap-toastr/toastr.js" type="text/javascript"></script>
+
+    </form>
+</body>
+</html>

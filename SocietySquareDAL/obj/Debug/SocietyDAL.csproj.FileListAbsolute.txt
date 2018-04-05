@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\society Source\society Source\SocietySquareDAL\bin\Debug\SocietySquareDAL.dll
+C:\Users\user\Desktop\society Source\society Source\SocietySquareDAL\bin\Debug\SocietySquareDAL.pdb
+C:\Users\user\Desktop\society Source\society Source\SocietySquareDAL\bin\Debug\SocietySquareEntity.dll
+C:\Users\user\Desktop\society Source\society Source\SocietySquareDAL\bin\Debug\SocietySquareEntity.pdb
+C:\Users\user\Desktop\society Source\society Source\SocietySquareDAL\obj\Debug\SocietyDAL.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\society Source\society Source\SocietySquareDAL\obj\Debug\SocietyDAL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\society Source\society Source\SocietySquareDAL\obj\Debug\SocietySquareDAL.dll
+C:\Users\user\Desktop\society Source\society Source\SocietySquareDAL\obj\Debug\SocietySquareDAL.pdb

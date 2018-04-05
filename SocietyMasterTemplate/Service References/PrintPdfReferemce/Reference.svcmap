@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="1aee1759-3d80-4103-91cf-71e604e26f11" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:3186/PrintPdf.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="PrintPdf.wsdl" MetadataType="Wsdl" ID="33a8806b-fc51-48b6-ae2d-12c392e3089d" SourceId="1" SourceUrl="http://localhost:3186/PrintPdf.svc?wsdl" />
+    <MetadataFile FileName="PrintPdf.xsd" MetadataType="Schema" ID="a2fd2ff3-c4dd-437f-84c6-83987a8031cf" SourceId="1" SourceUrl="http://localhost:3186/PrintPdf.svc?xsd=xsd0" />
+    <MetadataFile FileName="PrintPdf1.xsd" MetadataType="Schema" ID="ba7319e0-0d8b-492b-84f3-6ce51c8ceac1" SourceId="1" SourceUrl="http://localhost:3186/PrintPdf.svc?xsd=xsd1" />
+    <MetadataFile FileName="PrintPdf.disco" MetadataType="Disco" ID="6e1503ec-9d02-4df9-b8e0-10a9ea0025d3" SourceId="1" SourceUrl="http://localhost:3186/PrintPdf.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
